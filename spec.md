@@ -11,10 +11,11 @@ Position Aleksandrs Nosovs as an AI-first CX architect and secure senior CX, Sup
 Startup founders, VP-level operators (Product, Ops, Growth), and HR recruiters.
 
 **Primary CTA**  
-View LinkedIn profile.
+View LinkedIn profile  
+https://www.linkedin.com/in/aleksnosovs/
 
 **Secondary CTA**  
-Contact me (via LinkedIn only).
+Contact me (via LinkedIn only)
 
 **Visual Vibe**  
 Quiet luxury. Soft neutrals, restrained motion, generous white space, executive-grade minimalism.
@@ -36,22 +37,56 @@ AI-First CX Architect
 **Short Bio**  
 Head of Customer Support & Success with 16+ years of experience and 10+ years leading teams of 10+ people. Built AI-driven support systems from zero, reducing SLA from 4 hours to under 1 hour for 7M+ users, achieving 95%+ CSAT, increasing NPS by 25%, and cutting operational costs by over $1.2M annually. Results-driven leader focused on scalable systems, automation, and high-performing teams.
 
-**Key Strengths**
-- AI-driven support system design  
-- Support operations scaling  
-- SLA and KPI optimization  
-- Automation and workflow orchestration  
-- Cross-functional execution  
-- Global team leadership  
-- Knowledge base and LMS creation  
-- Fraud prevention systems  
-- Refund and payments automation  
+---
+
+## 3) Current Focus
+
+**JET Sharing — Head of Customer Support & Operations (Brazil)**  
+- Scaling support operations to 200,000+ tickets per month during rapid city expansion  
+- Delivering sub-1h First Response Time under peak load  
+- Introducing AI-assisted routing to handle 2–3x volume without headcount growth  
+- Building KPI, SLA, and QA frameworks for a 20-agent team  
+- Structuring chargeback and payment dispute handling  
+- Launching a multi-language knowledge base and self-service flows  
 
 ---
 
-### Experience Highlights
+## 4) Metrics Strip (Hero)
 
-**Head of Customer Support & Operations – JET Sharing (Brazil)**  
+- 7M+ users supported  
+- 200k+ tickets per month  
+- <1h First Response Time  
+- $1.2M+ annual cost savings  
+- 95%+ CSAT  
+- +25% NPS  
+
+---
+
+## 5) Systems & Platforms Built
+
+- **AI-Assisted Routing Engine**  
+  Designed intelligent ticket routing logic to prioritize critical issues and handle 2–3x higher volume without headcount growth.
+
+- **Refund Automation Pipeline**  
+  Integrated Zendesk with Stripe and Paddle, accelerating refund processing by 40% and cutting manual workload by 50%.
+
+- **Fraud Detection System**  
+  Built transaction analysis and alerting logic preventing 99% of rule circumvention losses, saving over $1.2M annually.
+
+- **Learning Management System (LMS)**  
+  Created from zero, reducing HR screening time by 30% and improving knowledge retention to 95%.
+
+- **Global COVID-19 Policy Database**  
+  Built a live regulatory knowledge base covering 150 countries and 50 airlines, boosting conversion by 15%.
+
+- **Multi-Language Knowledge Base**  
+  Launched scalable self-service flows reducing repeat inquiries by 30%.
+
+---
+
+## 6) Experience Highlights
+
+### Head of Customer Support & Operations — JET Sharing (Brazil)  
 2025.06 – Current  
 - Scaled support operations to 200,000+ tickets per month during rapid expansion  
 - Delivered sub-1h First Response Time under peak load  
@@ -60,7 +95,7 @@ Head of Customer Support & Success with 16+ years of experience and 10+ years le
 - Structured chargeback and payment dispute handling  
 - Launched a multi-language knowledge base and self-service flows  
 
-**Customer Support Architect – Prisma Labs (Contract)**  
+### Customer Support Architect — Prisma Labs (Contract)  
 Sep 2024 – Feb 2025  
 - Reduced priority feature rollout cycle by 30%  
 - Cut critical bug resolution time by 40%  
@@ -70,7 +105,7 @@ Sep 2024 – Feb 2025
 - Automated refunds via Zendesk, Stripe, and Paddle  
 - Cut refund-related workload by 50%  
 
-**Head of Customer Success and Fraud Prevention – App in the Air**  
+### Head of Customer Success and Fraud Prevention — App in the Air  
 Aug 2018 – Sep 2024  
 - Reduced SLA from 4h to under 1h for 7M+ users  
 - Improved CSAT from 60% to 95%  
@@ -83,7 +118,7 @@ Aug 2018 – Sep 2024
 - Increased conversion rates by 15%  
 - Designed 5-tier loyalty program, boosting retention by 20%  
 
-**Head of Customer Support – Aviasales**  
+### Head of Customer Support — Aviasales  
 Dec 2014 – Aug 2018  
 - Built multi-channel support system from zero  
 - Managed 5,000+ monthly inquiries  
@@ -96,7 +131,7 @@ Dec 2014 – Aug 2018
 
 ---
 
-### Skills (Grouped)
+## 7) Skills (Grouped)
 
 **Support & CRM**  
 - Zendesk  
@@ -130,99 +165,33 @@ Dec 2014 – Aug 2018
 
 ---
 
-### Education
+## 8) Education
 
-- Neural Networks and Deep Learning – Coursera (2017)  
-- Masters of Computers, Systems, and Networks – Peter the Great St. Petersburg Polytechnic University (2012)  
-- Masters of Public Relations – Nevsky Institute of Language and Culture (2006)  
-
----
-
-### Languages
-
-- English – Full professional proficiency (C1)  
-- Russian – Native or bilingual proficiency (C2)  
-- Portuguese – Limited working proficiency (B1)  
+- Neural Networks and Deep Learning — Coursera (2017)  
+- Masters of Computers, Systems, and Networks — Peter the Great St. Petersburg Polytechnic University (2012)  
+- Masters of Public Relations — Nevsky Institute of Language and Culture (2006)  
 
 ---
 
-### Links
+## 9) Languages
 
-- https://www.linkedin.com/in/aleksnosovs/
-
----
-
-### TBD / Missing Content
-
-- Professional headshot (hero image)  
-- Final approval of headline and subheadline text  
-- Optional testimonials or references  
-- Optional company logos (text-only acceptable)  
+- English — Full professional proficiency (C1)  
+- Russian — Native or bilingual proficiency (C2)  
+- Portuguese — Limited working proficiency (B1)  
 
 ---
 
-## 3) Page Structure (One Page)
+## 10) Contact
 
-**1. Hero**  
-Purpose: Immediate positioning and authority  
-Content:  
-- Name  
-- Title  
-- Subheadline referencing AI-driven CX and scale  
-- 2–3 compact metrics (e.g., 7M+ users, 200k+ tickets/month, $1.2M+ saved)  
-- Primary CTA: View LinkedIn  
-- Secondary CTA: Contact me (LinkedIn)  
+Primary CTA  
+https://www.linkedin.com/in/aleksnosovs/
 
-**2. About**  
-Purpose: Establish narrative credibility  
-Content:  
-- Short bio paragraph  
-- Core leadership philosophy (results-first, automation-first, scale-ready)  
-
-**3. Key Strengths**  
-Purpose: Scannable validation  
-Content:  
-- Grid of strengths grouped by domain (AI, Ops, Finance, Leadership)  
-
-**4. Experience Highlights**  
-Purpose: Condensed, high-impact track record  
-Content:  
-- JET Sharing  
-- Prisma Labs  
-- App in the Air  
-- Aviasales  
-- 3–5 bullets each  
-
-**5. Selected Achievements**  
-Purpose: Metric-forward proof  
-Content:  
-- SLA reduction  
-- CSAT and NPS growth  
-- Cost savings  
-- Volume scale  
-- Fraud loss prevention  
-
-**6. Skills**  
-Purpose: Recruiter filtering and keyword validation  
-Content:  
-- Grouped skill lists  
-
-**7. Education & Languages**  
-Purpose: Formal credibility  
-Content:  
-- Degrees  
-- Courses  
-- Languages  
-
-**8. Contact**  
-Purpose: Conversion  
-Content:  
-- [Connect on LinkedIn](https://www.linkedin.com/in/aleksnosovs/)  
-- Minimal closing line  
+Secondary CTA  
+Contact me (via LinkedIn only)
 
 ---
 
-## 4) Visual & Interaction Spec (Plain Language)
+## 11) Visual & Interaction Spec (Plain Language)
 
 **Layout & Spacing Philosophy**  
 - Large margins and generous padding  
@@ -250,7 +219,8 @@ Content:
 - Gentle fade-ins on scroll  
 - Slight parallax on hero background  
 - Eased hover effects on CTAs  
-- No distracting animations  
+- Metric count-up animations on load  
+- Respect reduced-motion preferences  
 
 **Mobile Behavior**  
 - Fully responsive single-column layout  
@@ -258,26 +228,41 @@ Content:
 - Tap-friendly spacing  
 - No horizontal scrolling  
 
+**Navigation**  
+- Minimal sticky header  
+- Auto-hide on scroll down  
+- Reappear on scroll up  
+- Anchors: About · Systems · Experience · Skills · Contact  
+
 ---
 
-## 5) Acceptance Checklist (Testable)
+## 12) Acceptance Checklist (Testable)
 
 - Looks premium and restrained  
 - Feels aligned with senior leadership positioning  
-- All metrics visible without scrolling excessively  
+- All metrics visible above the fold  
 - Works smoothly on mobile  
 - Smooth scrolling and subtle transitions  
 - Primary CTA always visible  
 - No placeholders or lorem ipsum  
 - All content sourced strictly from CV  
+- Dark mode mirrors light mode  
+- Icons remain subtle and monochrome  
+- No logos or testimonials  
+- Disclaimer visible but non-intrusive  
 
 ---
 
-## 6) TBD / Needed From You
+## 13) Footer Disclaimer
+
+All metrics are approximate and based on internal operational data.
+
+---
+
+## 14) TBD / Needed From You
 
 - Professional headshot (hero image)  
-- Final approval of headline and subheadline text  
-- Optional testimonials or references  
-- Optional logo usage permissions  
+- Final approval of hero headline + subheadline wording  
+- Optional company logo usage permissions (if ever needed)  
 - Domain name decision  
 - Favicon or personal mark (optional)  
